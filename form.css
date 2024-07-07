@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial; 
+}
+.card{
+    height: 550px;
+    width: 40%;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15% ;
+    margin-top: 3.5% ;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 80px;
+}
+input{
+    padding: 8px 20px;
+    width: 170%;
+    
+}
+.Login{
+    background-color: #F78410 !important;
+    padding: 6px 150px;
+    color: white;
+    margin-top: 30px;
+    font-size: 21px;
+    border: none;
+    border-radius: 0.267rem;
+        box-shadow: 0 2px 4px 0 rgba(90, 141, 238, 0.5) !important;
+}
+.card2{
+    height: 550px;
+    width: 60%;
+    background-color: #bec9d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100% ;
+   margin-top: -93.4%;
+}
+
+.register-p {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center; */
+    text-align: center !important;
+    line-height: 2.5rem;
+    color: darkblue;
+    font-size: 19px;
+}
+
+
+
+

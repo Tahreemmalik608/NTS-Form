@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial; 
+    color: #475F7B;
+}
+.card{
+    height: 1050px;
+    width: 50% ;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25% ;
+    border: 1px solid #b9bdca;
+    border-radius: .32rem;
+    padding: .5rem !important;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: -30px;
+}
+
+.form{
+    margin-left: 1px;
+   
+}
+input{
+    margin-left: 13px ;
+    width: 310px;
+    margin-top: 8px;
+    padding: 10px 20px;
+    color: #475F7B;
+}
+
+
