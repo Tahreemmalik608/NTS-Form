@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial; 
+    
 }
 .card{
     height: 550px;
@@ -44,20 +45,18 @@ input{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     margin-left: 100% ;
    margin-top: -93.4%;
 }
 
-.register-p {
-    /* display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: center; */
-    text-align: center !important;
-    line-height: 2.5rem;
-    color: darkblue;
+.register {
+   width: 90%;
+   direction: rtl;
+   line-height: 2.5rem;
+ color: darkblue;
     font-size: 19px;
+
 }
 
 

@@ -6,7 +6,7 @@
     color: #475F7B;
 }
 .card{
-    height: 1050px;
+    height: 1010px;
     width: 50% ;
     background-color:white;
     display: flex;
@@ -37,5 +37,14 @@ input{
     padding: 10px 20px;
     color: #475F7B;
 }
-
+.SIGN{
+    background-color: #F78410 !important;
+    padding: 7px 200px;
+    color: white;
+    margin-top: 30px;
+    font-size: 21px;
+    border: none;
+    border-radius: 0.267rem;
+        box-shadow: 0 2px 4px 0 rgba(90, 141, 238, 0.5) !important;
+}
 
